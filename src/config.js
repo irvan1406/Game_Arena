@@ -1,7 +1,7 @@
 // KONFIGURASI UTAMA GAME_ARENA
 // Akun khusus pemilik bisa diedit langsung dari file ini di GitHub.
 window.GameConfig = {
-  version: '2.0.0',
+  version: '2.1.0',
   title: 'Arena Tactics',
   ownerAccount: {
     username: 'Irvan',
