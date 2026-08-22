@@ -1,7 +1,7 @@
 // KONFIGURASI UTAMA GAME_ARENA
 // Akun khusus pemilik bisa diedit langsung dari file ini di GitHub.
 window.GameConfig = {
-  version: '2.1.0',
+  version: '2.3.0',
   title: 'Arena Tactics',
   ownerAccount: {
     username: 'Irvan',
@@ -32,6 +32,5 @@ window.GameConfig = {
     {id:'ice', name:'Frozen Gate', minTrophy:700, ground:'#9ccbd7', river:'#4c9fcd', bridge:'#d9edf0'},
     {id:'lava', name:'Inferno Keep', minTrophy:1200, ground:'#594747', river:'#dc633f', bridge:'#8e6750'}
   ],
-  // URL ini dipakai APK WebView. Setelah GitHub Pages aktif, edit game cukup commit web saja.
   webShellUrl: 'https://irvan1406.github.io/Game_Arena/'
 };
